@@ -1,0 +1,21 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+.buildlog
+.pub/
+build/
+packages
+.packages
+*.dart.js
+*.js_
+*.js.deps
+*.js.map
+workspace.xml
+Dart_Packages.xml
+.DS_Store
+.idea/
+*.aqueduct.pid
+.dart_tool
